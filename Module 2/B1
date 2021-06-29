@@ -44,4 +44,11 @@ ANS :  Python is a dynamic, high level, free open source and interpreted program
 9)Embeddable :
 --Embeddable means we can also put our Python code in different languages source code, like C++. 
 
-10)
+10)Large Standard Library :
+--Python has a large library inbuilt that can be used while you are coding a programme so that you don’t have to write your own code for every single thing.
+
+11)GUI Programming :
+--In Python, you can create basic GUI’s ( Graphical user interface ) by using Tk.
+
+12)Dynamically Typed :
+--Python is dynamically-typed. This implies the Type of variable is checked at runtime.
