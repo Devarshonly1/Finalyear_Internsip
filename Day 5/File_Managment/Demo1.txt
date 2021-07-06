@@ -1,0 +1,2 @@
+ This file is written only function file, where user can only write in this file.
+This is an append function using which we can add new data in the existing file.

@@ -1,0 +1,1 @@
+This is read and write function file. opposite to the W+ file function.ead this file.
