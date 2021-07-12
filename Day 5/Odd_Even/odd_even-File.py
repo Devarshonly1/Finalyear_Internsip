@@ -22,6 +22,7 @@ for i in s :
         
 odd.close()
 even.close()
+f1.close()
 
 print("# Even File ")
 even=open("even.txt","r")
