@@ -5,6 +5,9 @@
       And we developer can explain user where and what mistake he made during entering input.
 
 --> while finally : is used to end this exception function so that program do not use unnecessary space.
+     .aslo while working on file and data base function where we need to close certain file after its work is done
+     then we should close them inside " finally : " function , as we know that finally will always called irrespective of any exception.
+
 
 '''
     
